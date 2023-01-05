@@ -35,7 +35,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "alurabooks-ds",
+  "name": "alurabooks01-ds",
   "author": "nillacerda",
   "module": "dist/alurabooks-ds.esm.js",
   "size-limit": [
