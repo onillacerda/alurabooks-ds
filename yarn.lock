@@ -3547,6 +3547,13 @@
     "require-from-string" "^2.0.2"
     "uri-js" "^4.2.2"
 
+"alurabooks01-ds@^0.1.0":
+  "integrity" "sha512-k/yyIvJvoE5t57+8R7rbYpvfCds0k6QpNlDqpzK9GxOTu9SpbudZlp64mA+I0qfigJiiLbwukIKWbwpT4Q8tdg=="
+  "resolved" "https://registry.npmjs.org/alurabooks01-ds/-/alurabooks01-ds-0.1.0.tgz"
+  "version" "0.1.0"
+  dependencies:
+    "styled-components" "^5.3.6"
+
 "ansi-align@^3.0.0":
   "integrity" "sha512-IOfwwBF5iczOjp/WeY4YxyjqAFMQoZufdQWDd19SEExbVLNXqvpzSJ/M7Za4/sCPmQ0+GRquoA7bGcINcxew6w=="
   "resolved" "https://registry.npmjs.org/ansi-align/-/ansi-align-3.0.1.tgz"
@@ -10876,7 +10883,7 @@
     "object-assign" "^4.1.1"
     "prop-types" "^15.6.2"
 
-"react@^16.13.1 || ^17.0.0", "react@^16.8.0 || ^17.0.0 || ^18.0.0", "react@^16.8.3", "react@^16.8.4 || ^17.0.0", "react@^18.2.0", "react@>= 16.8.0":
+"react@^16.13.1 || ^17.0.0", "react@^16.8.0 || ^17.0.0 || ^18.0.0", "react@^16.8.3", "react@^16.8.4 || ^17.0.0", "react@^18.2.0", "react@>= 16.8.0", "react@>=16":
   "integrity" "sha512-/3IjMdb2L9QbBdWiW5e3P2/npwMBaU9mHCSCUzNln0ZCYbcfTsGbTJrU/kGemdH2IWmB2ioZ+zkxtmq6g09fGQ=="
   "resolved" "https://registry.npmjs.org/react/-/react-18.2.0.tgz"
   "version" "18.2.0"
