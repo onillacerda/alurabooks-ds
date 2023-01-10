@@ -1,3 +1,16 @@
+# v0.3.2 (Tue Jan 10 2023)
+
+#### ⚠️ Pushed to `main`
+
+- update da modal (nilson.oliveira@compasso.com.br)
+- adicionando componente AbInputQuantidade (nilson.oliveira@compasso.com.br)
+
+#### Authors: 1
+
+- nillacerda (nilson.oliveira@compasso.com.br)
+
+---
+
 # v0.3.1 (Tue Jan 10 2023)
 
 #### ⚠️ Pushed to `main`
